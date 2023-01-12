@@ -2,6 +2,11 @@
 
 SDRAirSafeLid is the main software of an original and low-cost ADS-B based system to fulfill air traffic safety obligations during atmospheric high power lidar operation.
 
+If you use SDRAirSafeLid please cite the following reference:
+
+"Peyrin F., Fréville P., Montoux, Baray J.-L., Original and low-cost ADS-B system to fulfill air traffic safety obligations during atmospheric high power lidar operation. [paper to be submitted to reviews before publication] submitted to Sensors journal, Jan. 2023"
+
+
 # Summary
 Lidar is an atmospheric sounding technique based on the use of high-power lasers.
 The use of these lasers involves fulfilling obligations with respect to air safety. 
