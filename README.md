@@ -18,8 +18,10 @@ The ADS-B transponder frames are acquired and analyzed in real-time, and the las
 During the initial period of validation, Laser shutdowns due to the detection of aircraft near the Clermont Ferrand lidar caused a data loss rate of less than 2%.
 The system has been accredited in 2019 by the French air traffic authorities.
 
-# Installation [section to be completed]
-This package needs Dump1090, Python 2, ...
+# Installation
+This package needs:
+* Dump1090: https://github.com/MalcolmRobb/dump1090
+* Python 2.7, and the additional packages json, os, datetime, time, socket
 
 # Author
 * Frédéric Peyrin (f.peyrin@opgc.fr)
