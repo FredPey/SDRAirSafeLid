@@ -4,7 +4,7 @@ SDRAirSafeLid is the main software of an original and low-cost ADS-B based syste
 
 If you use SDRAirSafeLid please cite the following reference:
 
-"Peyrin F., Fréville P., Montoux N., Baray J.-L., Original and low-cost ADS-B system to fulfill air traffic safety obligations during atmospheric high power lidar operation. [paper to be submitted to reviews before publication] submitted to Sensors journal, Jan. 2023"
+"Peyrin, F.; Fréville, P.; Montoux, N.; Baray, J.-L. Original and Low-Cost ADS-B System to Fulfill Air Traffic Safety Obligations during High Power LIDAR Operation. Sensors 2023, 23, 2899. https://doi.org/10.3390/s23062899"
 
 
 # Summary
